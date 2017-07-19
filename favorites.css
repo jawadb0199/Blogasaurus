@@ -1,0 +1,18 @@
+h1{
+  text-align: center;
+  font-size: 50px;
+  font-family: cursive;
+}
+h3{
+  font-size: 40px;
+  width: 500px;
+  text-decoration: underline;
+}
+li{
+  font-size: 27px;
+  width: 500px;
+}
+img{
+  height: 220px;
+  display: inline;
+}
